@@ -1,0 +1,241 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "name": "Amaka Johnson Alhaji",
+      "age": 14,
+      "gender": "Female",
+      "class": "JSS2",
+      "subjects": {
+        "math": 78,
+        "english": 85,
+        "science": 91
+      },
+      "parent": {
+        "parentEmail": "millis@gmail.com",
+        "parentPhone": "08060241639",
+        "parentAddress": "36 gado naso way kubwa"
+      }
+    },
+    {
+      "id": "2",
+      "name": "Tunde Bakare",
+      "age": 15,
+      "gender": "Male",
+      "class": "JSS3",
+      "subjects": {
+        "math": 88,
+        "english": 74,
+        "science": 67
+      },
+      "parent": {
+        "email": "parent.tunde@example.com",
+        "phone": "08023456789",
+        "address": "5 Agbani Road, Enugu"
+      }
+    },
+    {
+      "id": "3",
+      "name": "Chidera Okafor Jadin",
+      "age": 13,
+      "gender": "Female",
+      "class": "JSS1",
+      "subjects": {
+        "math": 95,
+        "english": 92,
+        "science": 89
+      },
+      "parent": {
+        "parentEmail": "parent.chidera@example.com",
+        "parentPhone": "08034567890",
+        "parentAddress": "8 Okpara Avenue, Owerri"
+      }
+    },
+    {
+      "id": "4",
+      "name": "Emeka Obi",
+      "age": 16,
+      "gender": "Male",
+      "class": "SS1",
+      "subjects": {
+        "math": 76,
+        "english": 80,
+        "science": 85
+      },
+      "parent": {
+        "email": "parent.emeka@example.com",
+        "phone": "08045678901",
+        "address": "21 Zik Avenue, Onitsha"
+      }
+    },
+    {
+      "id": "5",
+      "name": "Fatima Yusuf",
+      "age": 14,
+      "gender": "Female",
+      "class": "SS2",
+      "subjects": {
+        "math": 82,
+        "english": 78,
+        "science": 90
+      },
+      "parent": {
+        "email": "parent.fatima@example.com",
+        "phone": "08056789012",
+        "address": "18 Sultan Road, Kano"
+      }
+    },
+    {
+      "id": "6",
+      "name": "David Ekene",
+      "age": 15,
+      "gender": "Male",
+      "class": "SS3",
+      "subjects": {
+        "math": 89,
+        "english": 81,
+        "science": 94
+      },
+      "parent": {
+        "email": "parent.david@example.com",
+        "phone": "08067890123",
+        "address": "3 Gwagwalada Close, Abuja"
+      }
+    },
+    {
+      "id": "7",
+      "name": "Zainab Sule",
+      "age": 13,
+      "gender": "Female",
+      "class": "JSS2",
+      "subjects": {
+        "math": 84,
+        "english": 88,
+        "science": 77
+      },
+      "parent": {
+        "email": "parent.zainab@example.com",
+        "phone": "08078901234",
+        "address": "10 Emir Crescent, Ilorin"
+      }
+    },
+    {
+      "id": "8",
+      "name": "Kelvin Uche",
+      "age": 16,
+      "gender": "Male",
+      "class": "SS1",
+      "subjects": {
+        "math": 90,
+        "english": 86,
+        "science": 83
+      },
+      "parent": {
+        "email": "parent.kelvin@example.com",
+        "phone": "08089012345",
+        "address": "33 Aba Road, Port Harcourt"
+      }
+    },
+    {
+      "id": "9",
+      "name": "Blessing Etim",
+      "age": 15,
+      "gender": "Female",
+      "class": "SS2",
+      "subjects": {
+        "math": 73,
+        "english": 79,
+        "science": 88
+      },
+      "parent": {
+        "email": "parent.blessing@example.com",
+        "phone": "08090123456",
+        "address": "7 Barracks Road, Calabar"
+      }
+    },
+    {
+      "id": "e502",
+      "name": "Friday Udo ",
+      "age": "100",
+      "gender": "Male",
+      "subjects": {
+        "math": "30",
+        "english": "12",
+        "science": "50"
+      },
+      "parent": {
+        "parentEmail": "Fridayudojustice@gmail.com",
+        "parentPhone": "08060241639",
+        "parentAddress": "36 gado naso way kubwa"
+      }
+    },
+    {
+      "id": "895b",
+      "name": "Madu Happiness",
+      "age": "50",
+      "gender": "Female",
+      "class": "SSS 2",
+      "subjects": {
+        "math": "32",
+        "english": "23",
+        "science": "23"
+      },
+      "parent": {
+        "parentEmail": "happi@gmail.com",
+        "parentPhone": "+234-98653422",
+        "parentAddress": "Gwarimpa Group of schools"
+      }
+    },
+    {
+      "id": "2e27",
+      "name": "Uju Chris",
+      "age": "500",
+      "gender": "Female",
+      "class": "JSS 1",
+      "subjects": {
+        "math": "56",
+        "english": "67",
+        "science": "75"
+      },
+      "parent": {
+        "parentEmail": "apex@gmail.com",
+        "parentPhone": "8478464948499",
+        "parentAddress": "kubwa2/1"
+      }
+    },
+    {
+      "id": "35bb",
+      "name": "Oluchi Agu",
+      "age": "700",
+      "gender": "Female",
+      "class": "SSS 3",
+      "subjects": {
+        "math": "45",
+        "english": "45",
+        "science": "6"
+      },
+      "parent": {
+        "parentEmail": "olu@gmail.ocm",
+        "parentPhone": "8634455",
+        "parentAddress": "anlican kubwa"
+      }
+    },
+    {
+      "id": "1b3b",
+      "name": "Damilare Adebowale",
+      "age": "40",
+      "gender": "Male",
+      "class": "SSS 3",
+      "subjects": {
+        "math": "20",
+        "english": "23",
+        "science": "24"
+      },
+      "parent": {
+        "parentEmail": "adebowale@gmail.com",
+        "parentPhone": "77-909887788",
+        "parentAddress": "oduduwa streeet Abuja"
+      }
+    }
+  ]
+}
