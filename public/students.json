@@ -236,6 +236,23 @@
         "parentPhone": "77-909887788",
         "parentAddress": "oduduwa streeet Abuja"
       }
+    },
+    {
+      "id": "5bab",
+      "name": "Uju Chris",
+      "age": "900",
+      "gender": "Female",
+      "class": "SSS 2",
+      "subjects": {
+        "math": "1",
+        "english": "2",
+        "science": "79"
+      },
+      "parent": {
+        "parentEmail": "uju@gmail.com",
+        "parentPhone": "634536363536",
+        "parentAddress": "2/1 market Abuja"
+      }
     }
   ]
 }

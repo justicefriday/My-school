@@ -24,6 +24,8 @@ const NavBar = () => {
             <li className="nav-item">
               <Link className="btn btn-warning ms-3" to="/login">Login</Link>
             </li>
+            
+            
           </ul>
         </div>
       </div>

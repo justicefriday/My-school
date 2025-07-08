@@ -13,8 +13,6 @@ import NotFound from './pages/NotFound';
 import StudentPage, { studentLoader} from './pages/StudentPage';
 import AddStudentPage from './pages/AddStudentPage';
 import EditStudentPage from './pages/EditStudentPage';
-import MalePage from './pages/MalePage';
-import FemalePage  from './pages/FemalePage';
 
 const App = () => {
 //Add new Student
