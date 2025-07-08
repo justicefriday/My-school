@@ -74,7 +74,7 @@ export default StudentListings;
 
 
 
-
+//i use the below when i was runing it on development :runserver and was using proxy
 
 
 // import  { useState, useEffect } from 'react';
